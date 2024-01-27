@@ -3,7 +3,6 @@
     .header__search {
       display: none !important;
       width: auto !important;
-      display: none !important;
     }
   
     .playlist-container {
@@ -32,6 +31,8 @@
     .offer__scroll-container {
       overflow-y: visible !important;
     }
+
+    
   }
 @media screen and (min-width: 768px) and (max-width: 991px) {
 
